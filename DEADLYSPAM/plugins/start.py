@@ -5,17 +5,17 @@ from telethon import events, Button
 from telethon.tl.custom import button
 from DEADLYSPAM import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID, OWNER_NAME
 
-DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg"
+DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ff8228a476d1fc73ab8fe.jpg"
 
 
 Deadly_Button = [
         [
-        Button.url("🌼 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🌼", "https://t.me/ddsrvr"),
-        Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/dhimandiscus")
+        Button.url("🌼 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 🌼", "https://t.me/do_dil_ek_jaan143"),
+        Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/RONNY_KI_DUNIYA")
         ],
         [
-        Button.url(" 😈 𝗢𝗪𝗡𝗘𝗥 😈 ", "https://t.me/i_dxlvir"),
-        Button.url(" 🐣 𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦 🥂 ", "https://t.me/i_dxlvir")
+        Button.url(" 😈 𝗢𝗪𝗡𝗘𝗥 😈 ", "https://t.me/ll_SABKA_BHAI_KILLER_ll"),
+        Button.url(" 🐣 𝗙𝗘𝗘𝗟𝗜𝗡𝗚𝗦 🥂 ", "https://t.me/ll_SABKA_BHAI_KILLER_ll")
         ]
         ]
         
@@ -42,7 +42,7 @@ async def start(e):
         creator = f"[🍷 𝗗𝗛𝗜𝗠𝗔𝗡 🍷](tg://user?id={5760312424})"
         DEADLY_ON = f"""
 𝗛𝗘𝗬 {mention},
-𝗧𝗛𝗜𝗦 𝗜𝗦 𝗗𝗛𝗜𝗠𝗔𝗡 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬:- {creator}!
+𝗧𝗛𝗜𝗦 𝗜𝗦 𝗦𝗛𝗜𝗩 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬:- {creator}!
 
 🥵 𝗧𝗛𝗜𝗦 𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥:- {myOwner}
 
