@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# 「[DhimanSpam👮](https://t.me/Dhiman_Feelings)」
-Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝘿𝙝𝙞𝙢𝙖𝙣✘ᥫʀ᭡](https://t.me/i_dxlvir)
+# 「[ShivSpam👮](https://t.me/RONNY_KI_DUNIYA)」
+Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝙎𝙝𝙞𝙫✘ᥫʀ᭡](https://t.me/ll_SABKA_BHAI_KILLER_ll)
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -8,7 +8,7 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝘿𝙝𝙞𝙢𝙖𝙣✘ᥫʀ᭡](https://t.me/
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝙰+𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖+𝚂𝚙𝚊𝚖𝙱𝚘𝚝+𝙾𝚙𝚎𝚗+𝚂𝚘𝚞𝚛𝚌𝚎;𝚠𝚛𝚒𝚝𝚝𝚎𝚗+𝙸𝚗+Telethon%E2%9D%A4%EF%B8%8F">
 </p> 
 
-![logo](https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg)
+![logo](https://telegra.ph/file/ff8228a476d1fc73ab8fe.jpg)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 # Hᴏsᴛɪɴɢ
