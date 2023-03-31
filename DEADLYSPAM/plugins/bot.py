@@ -15,14 +15,14 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-DEAD_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/0fc760cb0777ea04b7dfe.jpg"
+DEAD_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ff8228a476d1fc73ab8fe.jpg"
   
 
-DEADLY = "✯ 𝗗𝗛𝗜𝗠𝗔𝗡 𝗦𝗣𝗔𝗠 𝗛𝗘𝗥𝗘 ✯\n\n"
+DEADLY = "✯ 𝗦𝗛𝗜𝗩 𝗦𝗣𝗔𝗠 𝗛𝗘𝗥𝗘 ✯\n\n"
 DEADLY += f"═══════════════════\n"
 DEADLY += f"• **𝗣𝗬𝗧𝗛𝗢𝗡 𝗩𝗘𝗥𝗦𝗜𝗢𝗡** : `3.10.1`\n"
 DEADLY += f"• **𝗧𝗘𝗟𝗘𝗧𝗛𝗢𝗡 𝗩𝗘𝗥𝗦𝗜𝗢𝗡** : `{version.__version__}`\n"
-DEADLY += f"• **𝗗𝗛𝗶𝗠𝗔𝗡𝗕𝗢𝗧 𝗩𝗘𝗥𝗦𝗜𝗢𝗡**  : `{deadlyversion}`\n"
+DEADLY += f"• **𝗦𝗛𝗜𝗩 𝗕𝗢𝗧 𝗩𝗘𝗥𝗦𝗜𝗢𝗡**  : `{deadlyversion}`\n"
 DEADLY += f"═══════════════════\n\n"   
 
                                   
@@ -34,11 +34,11 @@ async def alive(event):
                                   caption=DEADLY,
                                   buttons=[
         [
-        Button.url("🌼 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🌼", "https://t.me/ddsrvr"),
-        Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/dhimandiscus")
+        Button.url("🌼 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 🌼", "https://t.me/RONNY_KI_DUNIYA"),
+        Button.url("🌼 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 🌼", "https://t.me/do_dil_ek_jaan143")
         ],
         [
-        Button.url("• 😈 𝗢𝗪𝗡𝗘𝗥 😈 •", "https://t.me/i_dxlvir")
+        Button.url("• 😈 𝗢𝗪𝗡𝗘𝗥 😈 •", "https://t.me/ll_SABKA_BHAI_KILLER_ll")
         ]
         ]
         )
@@ -87,7 +87,7 @@ async def ping(e):
         event = await e.reply(text, parse_mode=None, link_preview=None )
         end = datetime.now()
         ms = (end-start).microseconds / 1000
-        await event.edit(f"🔥 #ROYAL_DHIMAN_SPAM 🥵 !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
+        await event.edit(f"🔥 #SHIV_OP_SPAM 🥵 !\n\n♡︎ `{ms}` 𝗺𝘀 ♡︎")
         
         
 
@@ -103,7 +103,7 @@ async def ping(e):
 @BOT9.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
-        text = "𝗥𝗘𝗟𝗢𝗔𝗗𝗜𝗡𝗚 𝗗𝗛𝗜𝗠𝗔𝗡 𝗦𝗣𝗔𝗠 ↪️.. 𝗣𝗟𝗘𝗔𝗦𝗘 𝗪𝗔𝗜𝗧 𝗨𝗡𝗧𝗜𝗟 𝗜𝗧 𝗦𝗧𝗔𝗥𝗧𝗦 𝗔𝗚𝗜𝗔𝗜𝗡 😈"
+        text = "𝗥𝗘𝗟𝗢𝗔𝗗𝗜𝗡𝗚 𝗦𝗛𝗜𝗩 𝗦𝗣𝗔𝗠 ↪️.. 𝗣𝗟𝗘𝗔𝗦𝗘 𝗪𝗔𝗜𝗧 𝗨𝗡𝗧𝗜𝗟 𝗜𝗧 𝗦𝗧𝗔𝗥𝗧𝗦 𝗔𝗚𝗜𝗔𝗜𝗡 😈"
         await e.reply(text, parse_mode=None, link_preview=None)
         try:
             await BOT0.disconnect()
